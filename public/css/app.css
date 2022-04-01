@@ -11286,3 +11286,22 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+/* footer */
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+  font-size: 13px;
+  font-weight: bold;
+}
+footer a {
+  color: #555;
+}
+footer a:hover {
+  color: #222;
+}
+footer img.brand-icon {
+  width: 17px;
+  height: 17px;
+}
