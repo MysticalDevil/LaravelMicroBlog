@@ -18,9 +18,10 @@ footer {
 
   a {
     color: #555;
-    &:hover {
-      color: #222;
-    }
+  }
+
+  a:hover {
+    color: #222;
   }
 
   img.brand-icon {
